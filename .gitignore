@@ -4,6 +4,12 @@
 *.ap_
 *.aab
 
+# Adding large and configuration files. 
+config.py
+movies_metadata.csv
+ratings.csv
+wikipedia-movies.json
+
 # Files for the ART/Dalvik VM
 *.dex
 
